@@ -1,0 +1,36 @@
+img {
+    border-radius: 100px;
+    width: 200px;
+    margin-left: 300px;
+  }
+  
+  h2 {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  body {
+    background-image: linear-gradient(maroon, black);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+  }
+  
+  a {
+    background-image: linear-gradient(black, maroon);
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  p {
+    margin-;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h1 {
+    margin-left: 260px;
+  }
